@@ -55,6 +55,6 @@
 # project change history
 1. 8ba9aeb3cea847b63a91ac378a2a6db758682460 добавленны файлы circle.py и square.py
 2. d078c8d9ee6155f3cb0e577d28d337b791de28e2 добавлен файл Docs
-3. ee6e8add7b16a3a927342f0448f5cdf747be45b3 добавлен комментарий в файл circle.py
-4. 04ad4226ea833f42ebb7f3379950f5a2fba3b870 добавлен комментарий в файл square.py
-5. f40337791313cf57dc16be0458f5843bd8b19d17 добавлены файлы triangle.py и rectangle.py
+3. fef5149e3096fd77d2a895215bc06062238a6a0a добавлен комментарий в файл circle.py
+4. 35609bf5595e0323aab1c76a1f69c933f174c9c9 добавлен комментарий в файл square.py
+5. cf20ef838235bcaa322e1c6f2f6537e177b34c09 добавлены файлы triangle.py и rectangle.py
