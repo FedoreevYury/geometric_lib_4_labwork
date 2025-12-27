@@ -58,3 +58,8 @@
 3. fef5149e3096fd77d2a895215bc06062238a6a0a добавлен комментарий в файл circle.py
 4. 35609bf5595e0323aab1c76a1f69c933f174c9c9 добавлен комментарий в файл square.py
 5. cf20ef838235bcaa322e1c6f2f6537e177b34c09 добавлены файлы triangle.py и rectangle.py
+6. 83581ee328e5eecfe9150ef4983132a19351a908 added __unit__.py
+7. 842698e930d3972122c14f8b4f6cca67fae07b8c added tests_triangle.py
+8. 9bced8534c80de74235646b305aad7151849dbb2 fixed tests_triangle.py
+9. 4d605b7e5e8920fc274cb15486a37cebc0a02780 added tests_circle.py
+10. 633e389e5c791bef044f2484d3ce06d8bb008b4a added tests_square.py
